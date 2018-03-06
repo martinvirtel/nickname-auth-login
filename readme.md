@@ -47,7 +47,7 @@ having count>1;
 
 Installing the plugin can be done by downloading the .zip file from here:
 
-https://github.com/mvtango/nickname-auth-login/archive/master.zip
+https://github.com/martinvirtel/nickname-auth-login/archive/master.zip
 
 ... and uploading it through the 'Plugins > Add New > Upload' screen in your WordPress dashboard. 
 Then activate the plugin through the 'Plugins' menu in WordPress.
